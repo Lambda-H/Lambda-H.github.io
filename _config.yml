@@ -22,8 +22,8 @@ repository               : "Lambda-H/hthou.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Haotian Hou"
-  name             : "Your Sidebar Name"
+  avatar           : "Profile.png"
+  name             : "Haotian Hou"
   pronouns         : # example: "she/her"  
   bio              : "Exploring the correlation between Computer Science and Biomedical Engineering"
   location         : "Beijing, China"
